@@ -1,0 +1,7 @@
+﻿  TrabajoParcial.cpp
+D:\descargas\TrabajoParcial\TrabajoParcial\TrabajoParcial\Controlador.h(97,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\descargas\TrabajoParcial\TrabajoParcial\TrabajoParcial\Controlador.h(328,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\descargas\TrabajoParcial\TrabajoParcial\TrabajoParcial\Controlador.h(414,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\descargas\TrabajoParcial\TrabajoParcial\TrabajoParcial\Controlador.h(418,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TrabajoParcial.vcxproj -> D:\descargas\TrabajoParcial\TrabajoParcial\x64\Debug\TrabajoParcial.exe

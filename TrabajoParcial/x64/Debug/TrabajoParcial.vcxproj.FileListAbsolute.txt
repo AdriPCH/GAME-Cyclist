@@ -1,0 +1,8 @@
+C:\Users\Rafael Chui\source\repos\TrabajoParcial\TrabajoParcial\x64\Debug\TrabajoParcial.vcxproj.AssemblyReference.cache
+C:\Users\Rafael Chui\source\repos\TrabajoParcial\TrabajoParcial\x64\Debug\TrabajoParcial.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael Chui\OneDrive\Escritorio\asdasfsadf\TrabajoParcial\TrabajoParcial\x64\Debug\TrabajoParcial.vcxproj.AssemblyReference.cache
+C:\Users\Rafael Chui\OneDrive\Escritorio\asdasfsadf\TrabajoParcial\TrabajoParcial\x64\Debug\TrabajoParcial.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael Chui\OneDrive\Escritorio\TrabajoParcial\TrabajoParcial\TrabajoParcial\x64\Debug\TrabajoParcial.vcxproj.AssemblyReference.cache
+C:\Users\Rafael Chui\OneDrive\Escritorio\TrabajoParcial\TrabajoParcial\TrabajoParcial\x64\Debug\TrabajoParcial.vcxproj.SuggestedBindingRedirects.cache
+D:\descargas\TrabajoParcial\TrabajoParcial\TrabajoParcial\x64\Debug\TrabajoParcial.vcxproj.AssemblyReference.cache
+D:\descargas\TrabajoParcial\TrabajoParcial\TrabajoParcial\x64\Debug\TrabajoParcial.vcxproj.SuggestedBindingRedirects.cache
